@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+# Copyright (C) 2016-2017 Maurício Vieira <mauricio@mauriciovieira.net>
+
+from .dev import *
+
+#DEBUG = False
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'bigfuture',
+        'USER': 'bigfuture',
+        'PASSWORD': 'changeme',
+        'HOST': '',
+        'PORT': '',
+    }
+}

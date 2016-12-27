@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/NozesNaBrita/bigfuture.svg?label=ready&title=Ready)](http://waffle.io/NozesNaBrita/bigfuture)
+[![Build Status](https://app.snap-ci.com/NozesNaBrita/bigfuture/branch/develop/build_image)](https://app.snap-ci.com/NozesNaBrita/bigfuture/branch/develop)
 [![Code Climate](https://codeclimate.com/github/NozesNaBrita/bigfuture/badges/gpa.svg)](https://codeclimate.com/github/NozesNaBrita/bigfuture)
 
 # bigfuture

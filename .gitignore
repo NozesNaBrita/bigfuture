@@ -1,1 +1,6 @@
 venv
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Database
+bigfuture/db.sqlite3
