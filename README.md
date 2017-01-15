@@ -15,6 +15,6 @@ Install virtualenv using python3.5+.
 ```
 virtualenv -p python3 venv
 source venv/bin/activate
-pip install -u requirements.txt
+pip install -Ur requirements.txt
 ```
 
