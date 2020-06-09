@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=big_future
+POSTGRES_USER=ZYILaFugBIkzJzruDFvUwVstCcFTGzVI
+POSTGRES_PASSWORD=0KLGpYAFRCvtUxAkHsTx1TtISMa3EScH7GW6TpV9QqgWme2ElmVixl96qxRKMuz2
